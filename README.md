@@ -19,7 +19,7 @@ I used the confusion matrix metric to decide which algorithm to implement. I tra
 * Random Forest
 * Gradient Boosting
 
-From this list, I shortlisted XGBoost, Decision Tree and Random Forest for further testing because of the reduced number of false negatives. After testing it was apparent that XGBoost was the best algorithm to implement as it took considerable less time to train compared to the other algorithms.
+From this list, I shortlisted XGBoost, Decision Tree and Random Forest for further testing because of the reduced number of false negatives. After testing it was apparent that XGBoost was the best algorithm to implement as it took considerably less time to train compared to the other algorithms.
 
 
 # Dealing with an Imbalaced Dataset
